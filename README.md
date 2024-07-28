@@ -15,7 +15,7 @@ Overview of the Project
 
 Project: Linear Regression on Housing Prices
 
-
+1.png
 
 Objective:
 
