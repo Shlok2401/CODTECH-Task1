@@ -11,7 +11,11 @@ Duration: 1st July 2024 to 1st August 2024
 
 Mentor: Neela Santosh Kumar
 
-Project Overview: Linear Regression on Housing Prices
+Overview of the Project
+
+Project: Linear Regression on Housing Prices
+
+
 
 Objective:
 
