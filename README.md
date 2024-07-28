@@ -1,17 +1,24 @@
 # CODTECH-Task1
 Name: SHLOK KUNDALE
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT4ML3498
+
 Domain: Machine Learning
+
 Duration: 1st July 2024 to 1st August 2024
-Mentor: 
+
+Mentor: Neela Santosh Kumar
 
 Project Overview: Linear Regression on Housing Prices
 
-Objective
+Objective:
+
 The primary objective of this project is to develop a linear regression model that can predict housing prices based on various features such as square footage, number of bedrooms, and location. By analyzing the relationships between these features and housing prices, we aim to create a predictive model that can provide accurate price estimates for properties.
 
-Key Activities
+Key Activities:
+
 1)Data Collection and Exploration:
 Dataset Selection: Use the California Housing dataset, which contains various features like median income, average house age, average rooms per household, average bedrooms per household, population, and location data.
 Data Loading: Import the dataset into the working environment.
